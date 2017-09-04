@@ -10,6 +10,8 @@ https://play.google.com/store/apps/details?id=com.ghtech.uwifree
 
 instrucciones:
 
+https://youtu.be/Us20Njx_YXM
+
 1.descargar la app de android
 
 2.descargar codigo para el esp8266 desde aqui en github.
